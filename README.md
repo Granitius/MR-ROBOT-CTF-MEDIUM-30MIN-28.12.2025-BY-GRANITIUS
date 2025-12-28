@@ -21,7 +21,9 @@
 `key-1-of-3.txt`
 
 Вот и первый ключ
+
 <img width="518" height="84" alt="image" src="https://github.com/user-attachments/assets/a016e8c1-2ccf-49a8-8123-a58ff0813b39" />
+
 `073403c8a58a1f80d943455fb30724b9`
 
 2. Открыв **fsocity.dic** предположим что это журнал с паролями для брутфорса,
