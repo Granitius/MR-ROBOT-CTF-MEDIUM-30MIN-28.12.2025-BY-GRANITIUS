@@ -1,9 +1,14 @@
 # MR-ROBOT-CTF-MEDIUM-30MIN-28.12.2025-BY-GRANITIUS
+
 <img width="671" height="413" alt="image" src="https://github.com/user-attachments/assets/5b5d8ab9-0089-4420-8f59-7cc7808b75e3" />
+
 Подключаемся к VPN Туннелю, IP адрес 
 `10.67.176.23`
+
 1. Проведем **Nmap** сканирование с флагами `-sC -sV -Pn` для выявления открытых портов
+ 
    <img width="243" height="64" alt="image" src="https://github.com/user-attachments/assets/4e0a5ca6-a3e8-4abe-b1d7-2f59ae02d500" />
+   
    Видим что 80 HTTP порт открыт, посмотрев сайт я не обнаружил ничего интересного,
 попробуем провести атаку директорий через утилиту gobuster
 
